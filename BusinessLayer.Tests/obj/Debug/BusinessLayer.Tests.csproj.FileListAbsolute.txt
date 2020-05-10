@@ -1,0 +1,16 @@
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.dll
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.csprojAssemblyReference.cache
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.csproj.CopyComplete
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.dll
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.dll.config
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\BusinessLayer.dll
+D:\Applications\C#\Unit Testing\Unit_Test_11\BusinessLayer.Tests\bin\Debug\BusinessLayer.pdb
